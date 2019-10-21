@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{300:function(e,n,a){"use strict";a.r(n);var t=a(1),o=a.n(t),r=a(297),l=a(296);n.default=function(){return o.a.createElement(r.a,null,o.a.createElement(l.a,{title:"Work"}),o.a.createElement("h4",{className:"heading"},"There's gonna be an awesome lot of work to be featured here, hang tight."),o.a.createElement("h2",null,"Coming Soon!!"))}}}]);
+//# sourceMappingURL=component---src-pages-work-js-8e939dcb43b48d91a9b5.js.map
